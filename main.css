@@ -1,0 +1,39 @@
+@import 'assets/font-awesome-4.7.0/css/font-awesome.min.css';
+
+body {
+    background: #a02c2c;
+    color: #f4d7d7;
+}
+
+.wrapper {
+    text-align: center;
+    padding: 150px 0;
+}
+
+.vlogo {
+    margin-left: auto;
+    margin-right: auto;
+    height: 40%;
+    width: auto;
+}
+
+ul {
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #f4d7d7;
+    font-size: 3.0vh;
+}
+
+ul li a:hover {
+    
+}
