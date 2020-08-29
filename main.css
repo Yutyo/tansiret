@@ -19,21 +19,24 @@ body {
 
 ul {
     padding-top: 20px;
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: 10px;
+    text-align: center;
 }
 
 ul li {
     display: inline;
-    margin: 0 10px;
+    margin: 0 1%;
 }
 
 ul li a {
+    opacity: 100%;
     text-decoration: none;
     color: #f4d7d7;
     font-size: 3.0vh;
+    transition: font-size .5s;
 }
 
 ul li a:hover {
-    
+    opacity: 50%;
+    transition: .5s;
 }
