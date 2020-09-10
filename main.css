@@ -1,5 +1,9 @@
 @import 'assets/font-awesome-4.7.0/css/font-awesome.min.css';
 
+html {
+    font-family: Helvetica;
+}
+
 body {
     background: #a02c2c;
     color: #f4d7d7;
