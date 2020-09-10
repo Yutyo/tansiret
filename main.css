@@ -41,7 +41,7 @@ ul li a {
 }
 
 ul li a:hover {
-    opacity: 50%;
+    color: #f4d7d780;
     transition: .5s;
 }
 
